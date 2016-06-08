@@ -1,0 +1,52 @@
+Hello Everyone,
+
+Hope you all are doing great!
+
+Please find below the links to Code School courses and 2 Books as a part of your pre-joining assignments to be completed within the given timeline. 
+
+You're expected to complete the tutorials before 6th June'16 after which you can start working on the assignments. You will receive the assignments by next week. 
+
+Please follow the below steps and get your account created on Code School.
+
+1. Create your account on codeschool.com.
+2. Share that email with us, we will add you to Webonise account, so that you can take the courses
+
+
+1. Code Schools Courses
+Git : 
+https://www.codeschool.com/courses/try-git
+https://www.codeschool.com/courses/git-real
+https://www.codeschool.com/courses/git-real-2
+https://www.codeschool.com/courses/mastering-github
+https://www.codeschool.com/screencasts/git-hooks
+https://www.codeschool.com/screencasts/feature-branches-pull-requests
+
+Database : 
+https://www.codeschool.com/courses/try-sql
+https://www.codeschool.com/courses/the-magical-marvels-of-mongodb
+
+Front End : 
+https://www.codeschool.com/courses/front-end-foundations
+https://www.codeschool.com/courses/front-end-formations
+https://www.codeschool.com/courses/css-cross-country
+https://www.codeschool.com/courses/assembling-sass
+https://www.codeschool.com/courses/assembling-sass-part-2
+
+JS :
+https://www.codeschool.com/courses/javascript-road-trip-part-1
+https://www.codeschool.com/courses/javascript-road-trip-part-2
+https://www.codeschool.com/courses/javascript-road-trip-part-3
+https://www.codeschool.com/courses/es2015-the-shape-of-javascript-to-come
+https://www.codeschool.com/courses/javascript-best-practices
+https://www.codeschool.com/courses/try-jquery
+https://www.codeschool.com/courses/jquery-the-return-flight
+https://egghead.io/series/learn-es6-ecmascript-2015
+
+2. Book Readings
+Please read the following books thoroughly as you will be given assignments based on the same:
+
+a) Clean Code:
+http://www.amazon.in/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
+
+b) TDD:
+https://www.packtpub.com/application-development/test-driven-java-development
